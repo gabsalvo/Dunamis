@@ -1,2 +1,0 @@
-/usr/bin/ar qc libDunamis.a CMakeFiles/Dunamis.dir/main.c.o CMakeFiles/Dunamis.dir/src/Character/hero.c.o
-/usr/bin/ranlib libDunamis.a

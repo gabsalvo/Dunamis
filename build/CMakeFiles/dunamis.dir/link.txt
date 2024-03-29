@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/dunamis.dir/main.c.o -o dunamis  libDunamis.a 
