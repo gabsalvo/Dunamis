@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "src/Character/hero.h"
+#include "Character/hero.h"
 
 
 int main(int argc, char *argv[]){
