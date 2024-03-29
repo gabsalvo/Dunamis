@@ -1,0 +1,4 @@
+/home/gab/Github/Dunamis/build/CMakeFiles/Dunamis.dir
+/home/gab/Github/Dunamis/build/CMakeFiles/dunamis.dir
+/home/gab/Github/Dunamis/build/CMakeFiles/edit_cache.dir
+/home/gab/Github/Dunamis/build/CMakeFiles/rebuild_cache.dir
